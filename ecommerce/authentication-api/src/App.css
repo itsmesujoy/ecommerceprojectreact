@@ -1,0 +1,147 @@
+body {
+  background-image: url(./pages/img/sujoy.jpg);
+  background-size: cover;
+
+  background-position: center;
+
+}
+
+.sidebar {
+  margin-left: -45px;
+}
+
+.text-primary {
+  cursor: pointer;
+}
+
+.error {
+  background-color: rgba(165, 114, 114, 0.901);
+  background-size: auto;
+  text-align: center;
+  font-size: 60px;
+  border-radius: 45px;
+}
+
+.img1 {
+  background-image: url(../src/pages/img/pexels-photo-1884112.jpeg);
+  background-repeat: no-repeat;
+  font-size: 500px;
+  width: 100%;
+  height: 100%;
+}
+
+.navbar {
+  width: 100%;
+  height: 58px;
+  background-color: rgba(255, 252, 252, 0.863);
+
+  border: solid grey;
+  border-radius: 30px;
+
+}
+
+.table {
+  border-radius: 50px;
+  width: 1000px;
+}
+
+.button13 {
+  border-radius: 50px;
+}
+
+.Already {
+  font-size: small;
+
+}
+
+.button13 {
+  margin-left: 600px;
+
+  margin-top: -50px;
+  margin-bottom: 15px;
+
+}
+
+.next {
+  background-color: aliceblue;
+  width: 150px;
+  height: 1000px;
+}
+
+.cl {
+  border-radius: 50px;
+}
+
+.ds {
+  max-width: 18rem
+}
+
+.sider {
+  width: 100px;
+
+  height: 1000px;
+  border: solid grey;
+  border-radius: 30px;
+
+  background-color: rgba(213, 206, 206, 0.954);
+}
+
+.all {
+  margin-top: -950px;
+  margin-left: 230px;
+
+}
+
+.about {
+  width: 800px;
+  margin-left: 500px;
+}
+
+.ss {
+
+  border-radius: 50px;
+}
+
+.ss:hover {
+  transform: scale(1.07);
+}
+
+.kk {
+  width: 100px;
+  border-radius: 30px;
+
+}
+
+.kk:hover {
+  transform: scale(1.07);
+}
+
+.ng {
+  margin-left: 500px;
+}
+
+.image {
+  width: 275px;
+  height: 350px;
+  
+}
+
+.dp {
+  width: 200px;
+  height: 200px;
+}
+
+.lg {
+  margin-right: 90px;
+  border-radius: 20px;
+  border: solid grey;
+}
+
+.logo {
+  background-image: url(./pages/img/creative-modern-abstract-ecommerce-logo-design-colorful-gradient-online-shopping-bag-logo-design-template-free-vector.webp);
+}
+.description{
+  overflow: auto;
+}
+
+
